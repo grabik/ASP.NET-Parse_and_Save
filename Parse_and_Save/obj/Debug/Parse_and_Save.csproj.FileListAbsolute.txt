@@ -1,0 +1,6 @@
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\Parse_and_Save\Parse_and_Save\bin\Parse_and_Save.dll.config
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\Parse_and_Save\Parse_and_Save\bin\Parse_and_Save.dll
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\Parse_and_Save\Parse_and_Save\bin\Parse_and_Save.pdb
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\Parse_and_Save\Parse_and_Save\obj\Debug\Parse_and_Save.csprojResolveAssemblyReference.cache
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\Parse_and_Save\Parse_and_Save\obj\Debug\Parse_and_Save.dll
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\Parse_and_Save\Parse_and_Save\obj\Debug\Parse_and_Save.pdb
